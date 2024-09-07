@@ -1,0 +1,26 @@
+[
+{
+    "question":"What does the acronym 'USB' stand for?",
+    "choice1":"Universal Serial Bus",
+    "choice2":"United Service Bus",
+    "choice3":"Uniform Standard Bus",
+    "choice4":"Universal Software Base",
+    "answer":1
+},
+{
+    "question":"What is the primary gas found in the Earth's atmosphere?",
+    "choice1":"Oxygen",
+    "choice2":"Nitrogen",
+    "choice3":"Hydrogen",
+    "choice4":"Carbon-Dioxide",
+    "answer":2
+},
+{
+    "question":"What is the capital city of Japan?",
+    "choice1":"Seoul",
+    "choice2":"Beijing",
+    "choice3":"Tokyo",
+    "choice4":"Bangkok",
+    "answer":3
+}
+]

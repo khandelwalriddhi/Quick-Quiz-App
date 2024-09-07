@@ -1,2 +1,3 @@
 #Quick Quiz App
+
 This project is a simple yet powerful Quiz application built using core Web Development technologies: HTML, CSS, and JavaScript. Developed without relying on libraries or frameworks, this app demonstrates proficiency in modern JavaScript (ES6) features, including arrow functions, the spread operator, and template literals. The app dynamically generates HTML, fetches trivia questions from the Open Trivia DB API, and stores high scores in Local Storage. Additionally, it features a custom-built progress bar, a spinning loader icon, and utilizes CSS Flexbox, Animations, and REM units to create a responsive and engaging user interface.
